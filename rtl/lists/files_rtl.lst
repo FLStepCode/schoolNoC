@@ -1,0 +1,11 @@
+src/NoC/XY_mesh.sv
+src/NoC/XY_mesh_synth.sv
+src/primitives/demux.sv
+src/primitives/mux.sv
+src/primitives/stream_arbiter.sv
+src/primitives/stream_fifo.sv
+src/router/XY_mesh/algorithm_XY_mesh.sv
+src/router/XY_mesh/router_XY_mesh.sv
+src/router/XY_mesh/router_XY_mesh_parallel.sv
+tb/tb_XY_mesh.sv
+tb/tb_XY_mesh_synth.sv
